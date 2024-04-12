@@ -1,7 +1,7 @@
 Jittor 第四届计图人工智能挑战赛 热身赛 baseline
 
 对已有代码进行补充（TODO部分）即可得到结果
-[result.png](https://postimg.cc/ygkDfzHJ)
+[![result.png](https://i.postimg.cc/Hxtbkpvt/result.png)](https://postimg.cc/ygkDfzHJ)
 
 
 ## 简介
